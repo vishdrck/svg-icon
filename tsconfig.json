@@ -16,6 +16,12 @@
     "importHelpers": true,
     "target": "es2017",
     "module": "es2020",
+    "paths": {
+      "svg-icon": [
+        "dist/svg-icon/svg-icon",
+        "dist/svg-icon"
+      ]
+    },
     "lib": [
       "es2018",
       "dom"
